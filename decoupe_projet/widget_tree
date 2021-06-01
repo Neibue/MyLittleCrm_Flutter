@@ -1,0 +1,11 @@
+main
+- AuthenticationBloc
+- MyAppWidget
+
+MyAppWidget
+- AppBar
+- CustomerBloc
+--- HomePage
+
+HomePage
+- FloatingButton

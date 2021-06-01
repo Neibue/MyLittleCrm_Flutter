@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "name": "Jean Dupont",
+    "officePhone": "02.98.00.00.00",
+    "mobilePhone": "06.00.00.00.00",
+    "address": "1 Rue de la Fontaine",
+    "company": {
+      "name": "Twitter",
+      "siretNumber": "1234567890123"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Papy Brossard",
+    "officePhone": "02.98.00.00.00",
+    "mobilePhone": "06.00.00.00.00",
+    "address": "1 Rue de la Fontaine",
+    "company": {
+      "name": "Twitter",
+      "siretNumber": "1234567890123"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Pierre Noel",
+    "officePhone": "02.98.00.00.00",
+    "mobilePhone": "06.00.00.00.00",
+    "address": "1 Rue de la Fontaine",
+    "company": {
+      "name": "Twitter",
+      "siretNumber": "1234567890123"
+    }
+  }
+]

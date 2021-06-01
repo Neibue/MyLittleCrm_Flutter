@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:mylittlecrm/logic/bloc/bloc/customers_bloc.dart';
+import 'package:mylittlecrm/logic/bloc/customers_bloc.dart';
 import 'package:mylittlecrm/screens/addEditCustomerScreen.dart';
 
 class DetailCustomer extends StatelessWidget {

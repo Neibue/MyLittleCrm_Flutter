@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:mylittlecrm/data/repositories/customerRepository.dart';
-import 'package:mylittlecrm/logic/bloc/bloc/customers_bloc.dart';
+import 'package:mylittlecrm/logic/bloc/customers_bloc.dart';
 import 'package:mylittlecrm/screens/addEditCustomerScreen.dart';
 import 'package:mylittlecrm/screens/detailsCustomer.dart';
 
@@ -35,6 +35,8 @@ class MyApp extends StatelessWidget {
           );
         },
         "/addCustomer": (context) {
+          ///
+          ///
           return AddEditCustomer(
             isEditing: false,
             key: Key("__addEditCustomer__"),
